@@ -1,10 +1,10 @@
 # Data-Mining
 
-Developed a complete data mining pipeline in Python, processing a raw retail sales dataset using Pandas for data cleaning, imputation , and standardization.     
+Developed a complete data mining pipeline in Python, processing a raw retail sales dataset using Pandas for data cleaning, imputation, and standardization.     
 
-Engineered and selected predictive features using Scikit-learn, applying transformations like Z-score normalization , equal-frequency binning , and variance thresholding. 
+Engineered and selected predictive features using Scikit-learn, applying transformations like Z-score normalization, equal-frequency binning, and variance thresholding. 
 
-Implemented and compared multiple regression models (Linear Regression, Decision Tree, Random Forest) in Scikit-learn to predict online shopper engagement (PageValues).   
+Implemented and compared classification & multiple regression models (Linear Regression, Decision Tree, Random Forest) in Scikit-learn to predict online shopper engagement (PageValues).   
 
 Tuned a Decision Tree's max_depth hyperparameter to optimize performance and analyzed feature importances to identify key business drivers.    
 
